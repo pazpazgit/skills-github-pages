@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: pazpazgit
 ---
 
 My name is paz
